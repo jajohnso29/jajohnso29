@@ -26,10 +26,10 @@
    
    ### I also have background and training in:
    * Programming, statistics, data analysis and data science
-   * R&D and Engineering Project Management
-   * Product Engineering/Design
+   * R&D and engineering project management
+   * Product engineering/design
    * Computational protein engineering and design
-   * Chemical engineering and bioengineering
+   * Chemical engineering and bioengineering (Fundamentals of Engineering Exam Pass Date: December 2015)
    * Biomaterials engineering
    * Bioreactors
    * Evolutionary engineering
