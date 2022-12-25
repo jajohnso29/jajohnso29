@@ -7,7 +7,7 @@
    * [Leroy Hood, MD, PhD](https://scholar.google.com/citations?user=TQ8RcVgAAAAJ&hl=en)
    ### PhD Doctoral Committee:
    * [Sean Gibbons, PhD (Chair)](https://scholar.google.com/citations?user=jRChVdYAAAAJ&hl=en)
-   * [Leroy Hood, PhD](https://scholar.google.com/citations?user=TQ8RcVgAAAAJ&hl=en)
+   * [Leroy Hood, MD, PhD](https://scholar.google.com/citations?user=TQ8RcVgAAAAJ&hl=en)
    * [Nancy Albritton, PhD (Dean of College of Engineering)](https://academictree.org/chemistry/publications.php?pid=65359)
    * [Julia Cui, PhD](https://www.researchgate.net/profile/Julia-Cui-2)
    * [Hao Yuan Kueh, PhD](https://scholar.google.com/citations?user=ckyY7T8AAAAJ&hl=en)
