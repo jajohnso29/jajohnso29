@@ -25,6 +25,9 @@
    * COVID-19 and the gut-lung-axis
    
    ### I also have background and training in:
+   * Programming, statistics, data analysis and data science
+   * R&D and Engineering Project Management
+   * Product Engineering/Design
    * Computational protein engineering and design
    * Chemical engineering and bioengineering
    * Biomaterials engineering
