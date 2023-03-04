@@ -2,7 +2,7 @@
   ### Hello! Welcome to my professional GitHub featuring my projects in the [Gibbons Lab](https://gibbons.isbscience.org) at the [Institute for Systems Biology (Seattle, WA)](https://isbscience.org) and [University of Washington - College of Engineering & School of Medicine: Department of Bioengineering](https://bioe.uw.edu). 
   
   ## News
-   ### Our latest preprint is complete. The repository is now public and the article will be online this week in bioRxiv!
+   ### 3/4/23: Our latest preprint is complete. The repository is now public and the article will be online this week in bioRxiv!
   ## Current Role
    ### I am a senior [Bioengineering: Data Science PhD Student](https://bioe.uw.edu/academic-programs/phd/phd-data-science-option/) (As of 12/22/22)
    ### PhD Advisors:
