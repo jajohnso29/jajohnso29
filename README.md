@@ -12,7 +12,7 @@
    * [Sean Gibbons, PhD (Chair)](https://scholar.google.com/citations?user=jRChVdYAAAAJ&hl=en)
    * [Leroy Hood, MD, PhD](https://scholar.google.com/citations?user=TQ8RcVgAAAAJ&hl=en)
    * [Nathan Price, PhD](https://scholar.google.com/citations?user=8Ly8BO4AAAAJ&hl=en)
-   * [Nancy Albritton, PhD (Dean of College of Engineering)](https://academictree.org/chemistry/publications.php?pid=65359)
+   * [Nancy Allbritton, PhD (Dean of College of Engineering)](https://academictree.org/chemistry/publications.php?pid=65359)
    * [Julia Cui, PhD](https://www.researchgate.net/profile/Julia-Cui-2)
    * [Hao Yuan Kueh, PhD](https://scholar.google.com/citations?user=ckyY7T8AAAAJ&hl=en)
    ### As a computational systems biologist, data scientist, and systems ecologist-in-training, my research targets the human gut microbiome, big data analysis, and the role of the microbiome in human health and disease. 
