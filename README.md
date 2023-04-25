@@ -4,7 +4,7 @@
   ## News
    ### 3/4/23: Our latest preprint is complete. The repository is now public and [the article is in bioRxiv!](https://www.biorxiv.org/content/10.1101/2023.03.04.531100v1)
   ## Current Role
-   ### I am a senior [Bioengineering: Data Science PhD Student](https://bioe.uw.edu/academic-programs/phd/phd-data-science-option/) (As of 12/22/22)
+   ### I am a senior [Bioengineering: Data Science PhD Candidate](https://bioe.uw.edu/academic-programs/phd/phd-data-science-option/) (As of 4/20/23)
    ### PhD Advisors:
    * [Sean Gibbons, PhD](https://scholar.google.com/citations?user=jRChVdYAAAAJ&hl=en)
    * [Leroy Hood, MD, PhD](https://scholar.google.com/citations?user=TQ8RcVgAAAAJ&hl=en)
