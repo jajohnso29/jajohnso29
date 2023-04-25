@@ -1,5 +1,5 @@
 # James P. Johnson, PhD Candidate 💩🧬🦠💻
-  ### Hello! Welcome to my professional GitHub featuring my projects in the [Gibbons Lab](https://gibbons.isbscience.org) at the [Institute for Systems Biology (Seattle, WA)](https://isbscience.org) and [University of Washington - College of Engineering & School of Medicine: Department of Bioengineering](https://bioe.uw.edu). 
+  ### Hello! Welcome to my professional GitHub featuring my projects in the [Gibbons Lab](https://gibbons.isbscience.org) and Hood-Price Lab at the [Institute for Systems Biology (Seattle, WA)](https://isbscience.org) and [University of Washington - College of Engineering & School of Medicine: Department of Bioengineering](https://bioe.uw.edu). 
   
   ## News
    ### 3/4/23: Our latest preprint is complete. The repository is now public and [the article is in bioRxiv!](https://www.biorxiv.org/content/10.1101/2023.03.04.531100v1)
