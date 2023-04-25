@@ -40,5 +40,5 @@
    * Synthetic biology
    * Biochemistry laboratory techniques
    
-   ### Here you will find my repos for my publications. Please at jajohnso@systemsbiology.org with any inquiries.
+   ### Here you will find my repos for my publications. Please at email me at jajohnso@systemsbiology.org with any inquiries.
 
