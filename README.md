@@ -26,6 +26,7 @@
    
   ## Research
    ### My findings have led me to studying:
+   * Biological aging and healthy aging 'omic signatures in the gut microbiome.
    * Chronic kidney disease (CKD), and the gut-kidney-axis
    * Alzheimer's disease (AD), Parkinson's disease (PD), and the gut-brain-axis
    * COVID-19 and the gut-lung-axis
