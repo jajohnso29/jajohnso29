@@ -2,7 +2,7 @@
   ### Hello! Welcome to my professional GitHub featuring my projects in the [Gibbons Lab](https://gibbons.isbscience.org) and Hood-Price Lab at the [Institute for Systems Biology (Seattle, WA)](https://isbscience.org) and [University of Washington - College of Engineering & School of Medicine: Department of Bioengineering](https://bioe.uw.edu). 
   
   ## News
-   ### 4/17/24: My doctoral dissertation defense (Final Exam) has been scheduled for August 15, 2024 at 2PM and I will be graduating in the summer commencement ceremonies at the University of Washington June 8, 2024!
+   ### 4/17/24: My doctoral dissertation defense (Final Exam) has been scheduled for August 15, 2024 and I will be graduating in the summer commencement ceremonies at the University of Washington June 8, 2024!
    ### 4/17/24: Our latest preprint has been "accepted in principle" by Cell Reports Medicine! It should be published shortly within the next couple of weeks. The preprint has been updated at bioRxiv and as a reminder, it can be viewed at the link directly below. The repository will be updated with final files accessible to Cell Reports Medicine within the next week.
    ### 3/4/23: Our latest preprint is complete. The repository is now public and [the article is in bioRxiv!](https://www.biorxiv.org/content/10.1101/2023.03.04.531100v1)
   ## Current Role
