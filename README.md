@@ -1,4 +1,4 @@
-# James P. Johnson, PhD Candidate 💩🧬🦠💻
+# Johannes P. Johnson-Martínez (a.k.a. James Johnson), PhD Candidate 💩🧬🦠💻
   ### Hello! Welcome to my professional GitHub featuring my projects in the [Gibbons Lab](https://gibbons.isbscience.org) and Hood-Price Lab at the [Institute for Systems Biology (Seattle, WA)](https://isbscience.org) and [University of Washington - College of Engineering & School of Medicine: Department of Bioengineering](https://bioe.uw.edu). 
   
   ## News
