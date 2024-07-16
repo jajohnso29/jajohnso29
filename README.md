@@ -2,6 +2,20 @@
   ### Hello! Welcome to my professional GitHub featuring my projects in the [Gibbons Lab](https://github.com/Gibbons-Lab) and [Hood-Price Lab](https://github.com/PriceLab) at the [Institute for Systems Biology (Seattle, WA)](https://isbscience.org) and [University of Washington - College of Engineering & School of Medicine: Department of Bioengineering](https://bioe.uw.edu). 
   
   ## News
+   ### 7/16/24: [Our latest article is public now!](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00360-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379124003604%3Fshowall%3Dtrue)
+   #### Check out the media attention:
+   #### [Newsweek](https://www.newsweek.com/bowel-movements-gut-bacteria-health-1925363)
+   #### [NBC News](https://www.nbcnews.com/health/health-news/often-poop-can-affect-health-well-gut-study-suggests-rcna161920)
+   #### [Gizmodo](https://gizmodo.com/are-your-poops-just-right-scientists-reveal-what-makes-a-healthy-pooping-routine-2000473918)
+   #### [New York Post](https://nypost.com/2024/07/16/lifestyle/how-to-reach-goldilocks-zone-of-pooping-once-or-twice-a-day/)
+   #### [Medical Express](https://medicalxpress.com/news/2024-07-age-sex-bmi-significantly-bowel.html)
+   #### [Healthnews](https://healthnews.com/news/poop-frequency-health-status/)
+   #### [BBC Science Focus Magazine](https://www.sciencefocus.com/news/poop-frequency-long-term-health)
+   #### [HealthDay](https://www.healthday.com/health-news/general-health/staying-regular-is-good-for-good-health)
+   #### [Gizmodo](https://gizmodo.com/are-your-poops-just-right-scientists-reveal-what-makes-a-healthy-pooping-routine-2000473918)
+   #### [Daily Mail](https://www.dailymail.co.uk/health/article-13639387/what-regular-poop-day-means-health.html)
+   #### [Business Times](https://www.btimesonline.com/articles/167609/20240717/study-links-infrequent-bowel-movements-to-kidney-damage-frequent-diarrhea-to-liver-issues.htm)
+   #### [Head Topics](https://headtopics.com/us/bowel-study-reveals-ideal-number-of-movements-a-day-55949572)
    ### 7/14/24: Our latest preprint will be live in Cell Reports Medicine July 16, 2024 11AM ET!
    ### 4/17/24: My doctoral dissertation defense (Final Exam) has been scheduled for August 15, 2024 and I will be graduating in the summer commencement ceremonies at the University of Washington June 8, 2024!
    ### 4/17/24: Our latest preprint has been "accepted in principle" by Cell Reports Medicine! It should be published shortly within the next couple of weeks. The preprint has been updated at bioRxiv and as a reminder, it can be viewed at the link directly below. The repository will be updated with final files accessible to Cell Reports Medicine within the next week.
