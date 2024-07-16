@@ -5,7 +5,7 @@
    ### 7/16/24: [Our latest article is public now!](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00360-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379124003604%3Fshowall%3Dtrue)
    
    #### Check out the media attention:
-   #### [ISB News Press Release](https://www.linkedin.com/feed/update/urn:li:activity:7219010009722941440/)
+   #### *[ISB News Press Release](https://www.linkedin.com/feed/update/urn:li:activity:7219010009722941440/)*
    #### [BBC Science Focus Magazine](https://www.sciencefocus.com/news/poop-frequency-long-term-health)
    #### [Newsweek](https://www.newsweek.com/bowel-movements-gut-bacteria-health-1925363)
    #### [NBC News](https://www.nbcnews.com/health/health-news/often-poop-can-affect-health-well-gut-study-suggests-rcna161920)
