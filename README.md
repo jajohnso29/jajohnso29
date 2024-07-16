@@ -17,6 +17,7 @@
    #### [Daily Mail](https://www.dailymail.co.uk/health/article-13639387/what-regular-poop-day-means-health.html)
    #### [Business Times](https://www.btimesonline.com/articles/167609/20240717/study-links-infrequent-bowel-movements-to-kidney-damage-frequent-diarrhea-to-liver-issues.htm)
    #### [Head Topics](https://headtopics.com/us/bowel-study-reveals-ideal-number-of-movements-a-day-55949572)
+   #### [The US Sun](https://www.the-sun.com/health/11940178/goldilocks-zone-poo-habits-reveal-health/)
    
    ### 7/14/24: Our latest preprint will be live in Cell Reports Medicine July 16, 2024 11AM ET!
    ### 4/17/24: My doctoral dissertation defense (Final Exam) has been scheduled for August 15, 2024 and I will be graduating in the summer commencement ceremonies at the University of Washington June 8, 2024!
