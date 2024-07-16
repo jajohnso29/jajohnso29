@@ -5,19 +5,19 @@
    ### 7/16/24: [Our latest article is public now!](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00360-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379124003604%3Fshowall%3Dtrue)
    
    #### Check out the media attention:
-   #### *[ISB News Press Release](https://www.linkedin.com/feed/update/urn:li:activity:7219010009722941440/)*
-   #### [BBC Science Focus Magazine](https://www.sciencefocus.com/news/poop-frequency-long-term-health)
-   #### [Newsweek](https://www.newsweek.com/bowel-movements-gut-bacteria-health-1925363)
-   #### [NBC News](https://www.nbcnews.com/health/health-news/often-poop-can-affect-health-well-gut-study-suggests-rcna161920)
-   #### [Gizmodo](https://gizmodo.com/are-your-poops-just-right-scientists-reveal-what-makes-a-healthy-pooping-routine-2000473918)
-   #### [New York Post](https://nypost.com/2024/07/16/lifestyle/how-to-reach-goldilocks-zone-of-pooping-once-or-twice-a-day/)
-   #### [Medical Express](https://medicalxpress.com/news/2024-07-age-sex-bmi-significantly-bowel.html)
-   #### [Healthnews](https://healthnews.com/news/poop-frequency-health-status/)
-   #### [HealthDay](https://www.healthday.com/health-news/general-health/staying-regular-is-good-for-good-health)
-   #### [Daily Mail](https://www.dailymail.co.uk/health/article-13639387/what-regular-poop-day-means-health.html)
-   #### [Business Times](https://www.btimesonline.com/articles/167609/20240717/study-links-infrequent-bowel-movements-to-kidney-damage-frequent-diarrhea-to-liver-issues.htm)
-   #### [Head Topics](https://headtopics.com/us/bowel-study-reveals-ideal-number-of-movements-a-day-55949572)
-   #### [The US Sun](https://www.the-sun.com/health/11940178/goldilocks-zone-poo-habits-reveal-health/)
+   #### *[ISB News Press Release](https://www.linkedin.com/feed/update/urn:li:activity:7219010009722941440/)
+   #### *[BBC Science Focus Magazine](https://www.sciencefocus.com/news/poop-frequency-long-term-health)
+   #### *[Newsweek](https://www.newsweek.com/bowel-movements-gut-bacteria-health-1925363)
+   #### *[NBC News](https://www.nbcnews.com/health/health-news/often-poop-can-affect-health-well-gut-study-suggests-rcna161920)
+   #### *[Gizmodo](https://gizmodo.com/are-your-poops-just-right-scientists-reveal-what-makes-a-healthy-pooping-routine-2000473918)
+   #### *[New York Post](https://nypost.com/2024/07/16/lifestyle/how-to-reach-goldilocks-zone-of-pooping-once-or-twice-a-day/)
+   #### *[Medical Express](https://medicalxpress.com/news/2024-07-age-sex-bmi-significantly-bowel.html)
+   #### *[Healthnews](https://healthnews.com/news/poop-frequency-health-status/)
+   #### *[HealthDay](https://www.healthday.com/health-news/general-health/staying-regular-is-good-for-good-health)
+   #### *[Daily Mail](https://www.dailymail.co.uk/health/article-13639387/what-regular-poop-day-means-health.html)
+   #### *[Business Times](https://www.btimesonline.com/articles/167609/20240717/study-links-infrequent-bowel-movements-to-kidney-damage-frequent-diarrhea-to-liver-issues.htm)
+   #### *[Head Topics](https://headtopics.com/us/bowel-study-reveals-ideal-number-of-movements-a-day-55949572)
+   #### *[The US Sun](https://www.the-sun.com/health/11940178/goldilocks-zone-poo-habits-reveal-health/)
    
    ### 7/14/24: Our latest preprint will be live in Cell Reports Medicine July 16, 2024 11AM ET!
    ### 4/17/24: My doctoral dissertation defense (Final Exam) has been scheduled for August 15, 2024 and I will be graduating in the summer commencement ceremonies at the University of Washington June 8, 2024!
