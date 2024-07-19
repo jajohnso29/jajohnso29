@@ -6,8 +6,11 @@
    
    #### Check out the media attention:
    * [ISB News Press Release](https://www.linkedin.com/feed/update/urn:li:activity:7219010009722941440/)
+   * [TODAY](https://www.today.com/health/news/poop-chronic-disease-risk-study-rcna162403)
+   * [CBC Radio](https://www.cbc.ca/listen/live-radio/1-81-airplay/clip/16082489-a-sensitive-story)
    * [BBC Science Focus Magazine](https://www.sciencefocus.com/news/poop-frequency-long-term-health)
    * [Newsweek](https://www.newsweek.com/bowel-movements-gut-bacteria-health-1925363)
+   * [Cosmos Magazine](https://cosmosmagazine.com/health/body-and-mind/bowel-movement-frequency-health/)
    * [NBC News](https://www.nbcnews.com/health/health-news/often-poop-can-affect-health-well-gut-study-suggests-rcna161920)
    * [Gizmodo](https://gizmodo.com/are-your-poops-just-right-scientists-reveal-what-makes-a-healthy-pooping-routine-2000473918)
    * [New York Post](https://nypost.com/2024/07/16/lifestyle/how-to-reach-goldilocks-zone-of-pooping-once-or-twice-a-day/)
