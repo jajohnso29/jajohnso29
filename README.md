@@ -2,7 +2,7 @@
   ### Hello! Welcome to my professional GitHub featuring my projects in the [Gibbons Lab](https://github.com/Gibbons-Lab) and [Hood-Price Lab](https://github.com/PriceLab) at the [Institute for Systems Biology (Seattle, WA)](https://isbscience.org) and [University of Washington - College of Engineering & School of Medicine: Department of Bioengineering](https://bioe.uw.edu). 
 
   ## News
-   ### 8/16/24: I passed my doctoral dissertation defense and have earned my PhD in Bioengineering: Data Science from the UW!
+   ### 8/16/24: I passed my doctoral dissertation defense and have earned my [PhD in Bioengineering: Data Science from the UW](https://bioe.uw.edu/academic-programs/phd/phd-data-science-option/)!
   
   ## News
    ### 7/16/24: [Our latest article is public now!](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00360-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379124003604%3Fshowall%3Dtrue)
