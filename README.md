@@ -32,7 +32,7 @@
    ### 4/17/24: Our latest preprint has been "accepted in principle" by Cell Reports Medicine! It should be published shortly within the next couple of weeks. The preprint has been updated at bioRxiv and as a reminder, it can be viewed at the link directly below. The repository will be updated with final files accessible to Cell Reports Medicine within the next week.
    ### 3/4/23: Our latest preprint is complete. The repository is now public and [the article is in bioRxiv!](https://www.biorxiv.org/content/10.1101/2023.03.04.531100v1)
   ## Current Role
-   ### I am a graduating [Bioengineering: Data Science PhD Candidate](https://bioe.uw.edu/academic-programs/phd/phd-data-science-option/) with a completed [PhD Certificate in Computational Molecular Biology](https://cmb.washington.edu/prospective.htm) (as of 4/17/24) currently looking for employment starting in August 2024!
+   ### I am a [Bioengineering: Data Science PhD](https://bioe.uw.edu/academic-programs/phd/phd-data-science-option/) with a completed [PhD Certificate in Computational Molecular Biology](https://cmb.washington.edu/prospective.htm) (as of 4/17/24) currently looking for employment (can start immediately)!
    
    ### PhD Advisors:
    * [Sean Gibbons, PhD](https://scholar.google.com/citations?user=jRChVdYAAAAJ&hl=en)
